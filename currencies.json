@@ -1,0 +1,226 @@
+[
+  {
+    "code": "AUD",
+    "name": "Australian dollar",
+    "symbol": "$",
+    "country": "Australia",
+    "flag": "https://cdn.countryflags.com/thumbs/australia/flag-round-500.png"
+  },
+  {
+    "code": "BGN",
+    "name": "Bulgarian lev",
+    "symbol": "лв",
+    "country": "Bulgaria",
+    "flag": "https://cdn.countryflags.com/thumbs/bulgaria/flag-round-500.png"
+  },
+  {
+    "code": "BRL",
+    "name": "Brazilian real",
+    "symbol": "R$",
+    "country": "Brazil",
+    "flag": "https://cdn.countryflags.com/thumbs/brazil/flag-round-500.png"
+  },
+  {
+    "code": "CAD",
+    "name": "Canadian dollar",
+    "symbol": "$",
+    "country": "Canada",
+    "flag": "https://cdn.countryflags.com/thumbs/canada/flag-round-500.png"
+  },
+  {
+    "code": "CHF",
+    "name": "Swiss franc",
+    "symbol": "Fr",
+    "country": "Switzerland",
+    "flag": "https://cdn.countryflags.com/thumbs/switzerland/flag-round-500.png"
+  },
+  {
+    "code": "CNY",
+    "name": "Chinese yuan",
+    "symbol": "¥",
+    "country": "China",
+    "flag": "https://cdn.countryflags.com/thumbs/china/flag-round-500.png"
+  },
+  {
+    "code": "CZK",
+    "name": "Czech koruna",
+    "symbol": "Kč",
+    "country": "Czech Republic",
+    "flag": "https://cdn.countryflags.com/thumbs/czech-republic/flag-round-500.png"
+  },
+  {
+    "code": "DKK",
+    "name": "Danish krone",
+    "symbol": "kr",
+    "country": "Denmark",
+    "flag": "https://cdn.countryflags.com/thumbs/denmark/flag-round-500.png"
+  },
+  {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "country": "European Union",
+    "flag": "https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Europe_-_Circle-512.png"
+  },
+  {
+    "code": "GBP",
+    "name": "British pound",
+    "symbol": "£",
+    "country": "United Kingdom",
+    "flag": "https://cdn.countryflags.com/thumbs/united-kingdom/flag-round-500.png"
+  },
+  {
+    "code": "HKD",
+    "name": "Hong Kong dollar",
+    "symbol": "$",
+    "country": "Hong Kong",
+    "flag": "https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Hong_Kong_-_Circle-512.png"
+  },
+  {
+    "code": "HRK",
+    "name": "Croatian kuna",
+    "symbol": "kn",
+    "country": "Croatia",
+    "flag": "https://cdn.countryflags.com/thumbs/croatia/flag-round-500.png"
+  },
+  {
+    "code": "HUF",
+    "name": "Hungarian forint",
+    "symbol": "Ft",
+    "country": "Hungary",
+    "flag": "https://cdn.countryflags.com/thumbs/hungary/flag-round-500.png"
+  },
+  {
+    "code": "IDR",
+    "name": "Indonesian rupiah",
+    "symbol": "Rp",
+    "country": "Indonesia",
+    "flag": "https://cdn.countryflags.com/thumbs/indonesia/flag-round-500.png"
+  },
+  {
+    "code": "ILS",
+    "name": "Israeli new shekel",
+    "symbol": "₪",
+    "country": "Israel",
+    "flag": "https://cdn.countryflags.com/thumbs/israel/flag-round-500.png"
+  },
+  {
+    "code": "INR",
+    "name": "Indian rupee",
+    "symbol": "₹",
+    "country": "Bhutan",
+    "flag": "https://cdn.countryflags.com/thumbs/india/flag-round-500.png"
+  },
+  {
+    "code": "ISK",
+    "name": "Icelandic króna",
+    "symbol": "kr",
+    "country": "Iceland",
+    "flag": "https://cdn.countryflags.com/thumbs/iceland/flag-round-500.png"
+  },
+  {
+    "code": "JPY",
+    "name": "Japanese yen",
+    "symbol": "¥",
+    "country": "Japan",
+    "flag": "https://cdn.countryflags.com/thumbs/japan/flag-round-500.png"
+  },
+  {
+    "code": "KRW",
+    "name": "South Korean won",
+    "symbol": "₩",
+    "country": "Korea (Republic of)",
+    "flag": "https://cdn.countryflags.com/thumbs/south-korea/flag-round-500.png"
+  },
+  {
+    "code": "MXN",
+    "name": "Mexican peso",
+    "symbol": "$",
+    "country": "Mexico",
+    "flag": "https://cdn.countryflags.com/thumbs/mexico/flag-round-500.png"
+  },
+  {
+    "code": "MYR",
+    "name": "Malaysian ringgit",
+    "symbol": "RM",
+    "country": "Malaysia",
+    "flag": "https://cdn.countryflags.com/thumbs/malaysia/flag-round-500.png"
+  },
+  {
+    "code": "NOK",
+    "name": "Norwegian krone",
+    "symbol": "kr",
+    "country": "Bouvet Island",
+    "flag": "https://cdn.countryflags.com/thumbs/norway/flag-round-500.png"
+  },
+  {
+    "code": "NZD",
+    "name": "New Zealand dollar",
+    "symbol": "$",
+    "country": "New Zealand",
+    "flag": "https://cdn.countryflags.com/thumbs/new-zealand/flag-round-500.png"
+  },
+  {
+    "code": "PHP",
+    "name": "Philippine peso",
+    "symbol": "₱",
+    "country": "Philippines",
+    "flag": "https://cdn.countryflags.com/thumbs/philippines/flag-round-500.png"
+  },
+  {
+    "code": "PLN",
+    "name": "Polish złoty",
+    "symbol": "zł",
+    "country": "Poland",
+    "flag": "https://cdn.countryflags.com/thumbs/poland/flag-round-500.png"
+  },
+  {
+    "code": "RON",
+    "name": "Romanian leu",
+    "symbol": "lei",
+    "country": "Romania",
+    "flag": "https://cdn.countryflags.com/thumbs/romania/flag-round-500.png"
+  },
+  {
+    "code": "RUB",
+    "name": "Russian ruble",
+    "symbol": "₽",
+    "country": "Russian Federation",
+    "flag": "https://cdn.countryflags.com/thumbs/russia/flag-round-500.png"
+  },
+  {
+    "code": "SEK",
+    "name": "Swedish krona",
+    "symbol": "kr",
+    "country": "Sweden",
+    "flag": "https://cdn.countryflags.com/thumbs/sweden/flag-round-500.png"
+  },
+  {
+    "code": "SGD",
+    "name": "Singapore dollar",
+    "symbol": "$",
+    "country": "Singapore",
+    "flag": "https://cdn.countryflags.com/thumbs/singapore/flag-round-500.png"
+  },
+  {
+    "code": "THB",
+    "name": "Thai baht",
+    "symbol": "฿",
+    "country": "Thailand",
+    "flag": "https://cdn.countryflags.com/thumbs/thailand/flag-round-500.png"
+  },
+  {
+    "code": "USD",
+    "name": "United States Dollar",
+    "symbol": "$",
+    "country": "United States",
+    "flag": "https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-500.png"
+  },
+  {
+    "code": "ZAR",
+    "name": "South African rand",
+    "symbol": "R",
+    "country": "South Africa",
+    "flag": "https://cdn.countryflags.com/thumbs/south-africa/flag-round-500.png"
+  }
+]
